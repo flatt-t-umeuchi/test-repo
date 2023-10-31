@@ -1,1 +1,1 @@
-SELECT * FROM `security-assessment-sandbox.trocco_test.trocco_test_1`
+SELECT * FROM `test_from_staging_trocco_bigquery_yuuito_s3_permissions`
